@@ -1,0 +1,14 @@
+{
+  "name": "ucnodesl",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./esl.js"
+  },
+  "dependencies": {
+    "faye": "^1.1.1",
+    "modesl": "^1.1.8",
+    "moment": "^2.10.6",
+    "underscore": "^1.8.2"
+  }
+}
